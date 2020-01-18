@@ -127,7 +127,7 @@ document.getElementById(id).innerHTML = TODArray[randomNumber];
 					</div>
 					<div id="collapseOne" class="collapse " data-parent="#accordion">
 						<div class="card-body">
-							Insurance is not an expense but necessity to secure our life.
+							Health insurance covers essential health benefits critical to maintaining your health and treating illness and accidents. Health insurance protects you from unexpected, high medical costs. You pay less for covered in-network health care, even before you meet your deductible.You get free preventive care, like vaccines, screenings, and some check-ups, even before you meet your deductible.Insurance is not an expense but necessity to secure our life.
 						</div>
 					</div>
 				</div>
@@ -140,7 +140,15 @@ document.getElementById(id).innerHTML = TODArray[randomNumber];
 					</div>
 					<div id="collapseTwo" class="collapse" data-parent="#accordion">
 						<div class="card-body">
-							Lorem ipsum..
+							1. Coverage against medical expenses<br>
+ 		                           		    The main purpose of medical insurance is to receive the best medical care without any strain on your finances.<br>
+							2. Coverage against critical illnesses<br>
+					                    Insurance providers nowadays offer critical illness insurance, either as a standalone plan or as a rider. Such an insurance policy provides coverage against life-threatening diseases such as kidney failure, bone marrow transplant, stroke, and loss of limbs, among others.,br>
+							3. Cashless claim benefit<br>
+							   Many insurance providers offer cashless claim facility. In such an arrangement, you do not have to make any out-of-pocket payments. The hospitalization expenses are settled between your insurer and the hospital.<br>
+							4. Additional protection over and above your employer cover<br>
+							   Many organizations cover their employees with a group insurance plan. However, such policies are not tailor-made according to the needs of every individual.<br>
+
 						</div>
 					</div>
 				</div>
